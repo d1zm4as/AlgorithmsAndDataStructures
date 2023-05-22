@@ -1,0 +1,12 @@
+Estrutura de dados se dividem em duas categorias:
+
+Linear -> Os elementos são organizados de maneira sequencial, um atrás
+
+do outro
+ex: Array, Linked List, Stack, Queue
+
+
+Não-Linear -> Os elementos contidos não tem ordem posicional de 
+organizaçao
+
+ex: Tree, Table, Graph
