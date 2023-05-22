@@ -16,20 +16,19 @@ peek-> deixa que o usuário veja oq tem no topo da pilha sem modifica-la
 
 
 */
-// Implementing Static Stack using an Array in C
 
 
 
-// N will be the capacity of the Static Stack
+// tamanho da stack
 #define N 5
 
-// Initializing the top of the stack to be -1
+//
 int top = -1;
 
-// Initializing the stack using an array
+// usando array
 int stack[N];
 
-// Function prototypes
+// Funções
 void push();       
 int pop();       
 int peek();        
