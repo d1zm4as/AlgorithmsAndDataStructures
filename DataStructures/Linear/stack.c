@@ -6,6 +6,10 @@
 /*
 Uma pilha(stack) é uma coleção de elementos que são inseridos e removidos de acordo com o Last-in-first-out(lifo), similar com uma pilha de livros.
 
+A pilha é uma tipo abstrato de dados, focando mais no comportamento doq na implementação em sí
+
+bastente usando para avaliar expressões, e guardar dados em cache etc
+
 As operações básicas são:
 
 push -> adiciona um elemento no topo da pilha
@@ -13,6 +17,8 @@ push -> adiciona um elemento no topo da pilha
 pop -> exclui o elemento do topo da pilha
 
 peek-> deixa que o usuário veja oq tem no topo da pilha sem modifica-la
+
+Todas operações acima são O(1),extremamente rápidas
 
 
 */
