@@ -81,7 +81,7 @@ int main()
     int arr[] ={8,4,5,6,0,2,1} ;
     int n = sizeof(arr) / sizeof(arr[0]);
     bubbleSort(arr, n);
-    printf("Sorted array: \n");
+    printf("ordenando...\n");
     printArray(arr, n);
     return 0;
 }
