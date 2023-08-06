@@ -1,6 +1,8 @@
 
 
-# Deapht First Search(DFS) é um algoritmo de travessia de grafo que começa de um nó e visita todas as vértices do grafo. O  algoritmo visita um nó e depois os nós vizinhos do nó de forma recursiva até chegar no fim do caminho após isso ele volta até o último nó visitado e continua a traversia de la.
+# Deapht First Search(DFS) é um algoritmo de travessia de grafo que começa de um nó e 
+# visita todas as vértices do grafo. O  algoritmo visita um nó e depois os nós vizinhos do nó de forma recursiva 
+# até chegar no fim do caminho após isso ele volta até o último nó visitado e continua a traversia de la.
 
 
 
