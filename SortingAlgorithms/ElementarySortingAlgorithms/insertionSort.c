@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-int a = {9,8,2,6,0};7
+int a = {9,8,2,6,0};
 
 A ordenação começa com os dois primeiros termos do array(a[0] e a[1]), no caso {9,8}
 
