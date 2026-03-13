@@ -12,6 +12,10 @@ Collection of sorting algorithm implementations.
   - `quick_sort.c`
   - `mergeSort.c`
   - `heapSort.c`
+  - `counting_sort.c`
+  - `bucket_sort.c`
+  - `radix_sort.c`
+  - `shell_sort.c`
 
 ## Build example
 
